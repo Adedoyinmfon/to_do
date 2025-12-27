@@ -1,0 +1,38 @@
+## This repository documents my journey relearning Python and building practical projects.
+
+## Projects
+
+### Calculator
+# Command-line calculator
+# Desktop GUI calculator built with Tkinter
+
+# More projects will be added as I continue learning.
+
+## Technologies
+# Python
+# Tkinter
+# Git & GitHub
+
+# calculator/README.md
+# Calculator Project
+
+# This project contains two calculators built with Python:
+
+## 1. CLI Calculator
+# A command-line calculator that supports basic arithmetic operations:
+# Addition
+# Subtraction
+# Multiplication
+# Division
+
+# Run:
+# ```bash
+# python calculator.py
+
+
+## 2. GUI Calculator (Tkinter)
+# A desktop calculator application built using Tkinter.
+
+# Run:
+# bash
+# python calc_app.py
